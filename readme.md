@@ -4,7 +4,7 @@ This css library is Implementation of Google's Material Design 3 Typography.
 
 ## Usage
 
-[See Demo](https://m3.material.io/styles/typography/overview)
+[See Demo](https://chetan-waghade.github.io/Typography/)
 
 ## 🔗 Links
 
