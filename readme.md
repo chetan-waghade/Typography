@@ -1,4 +1,4 @@
-## CSS Implementation of Material Design Typography
+## CSS Implementation of Material Design 3 Typography
 
 This css library is Implementation of Google's Material Design 3 Typography.
 All of the necessary information is taken from MD3. My work only includes the conversion of
